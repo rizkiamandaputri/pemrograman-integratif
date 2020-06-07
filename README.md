@@ -1,9 +1,9 @@
 # pemrograman-integratif
 
-#using broker
+# using broker
 broker.hivemq.com
 
-#install library
+# install library
 pip install paho-mqtt
 
 #running the each of code of publisher and subscriber on terminal
